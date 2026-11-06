@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-y = np.array([1,2,3,4,4])
-print('hello world')
+print('hello')
 print('lalala')
-plt.hist(y)
+print('jsdnakjd')
 plt.show()
